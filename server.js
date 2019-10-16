@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb+srv://apiech1990:pies3kot!@cluster0-z3duz.mongodb.net/admin?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://apiech1990:kosia12345@cluster0-z3duz.mongodb.net/admin?retryWrites=true&w=majority', {
     useMongoClient: true
 });
 
