@@ -1,3 +1,1 @@
-# Zad.-21.8
-
-https://dashboard.heroku.com/apps/infinite-brushlands-91974
+https://git.heroku.com/obscure-brook-11862.git
