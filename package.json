@@ -1,0 +1,24 @@
+{
+  "name": "zad.-21.8",
+  "version": "1.0.0",
+  "description": "https://dashboard.heroku.com/apps/infinite-brushlands-91974",
+  "main": "server.js",
+  "dependencies": {
+    "mongoose": "^5.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnieszkaszymlak/Zad.-21.8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnieszkaszymlak/Zad.-21.8/issues"
+  },
+  "homepage": "https://github.com/agnieszkaszymlak/Zad.-21.8#readme"
+}
