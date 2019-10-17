@@ -1,1 +1,1 @@
-https://git.heroku.com/obscure-brook-11862.git
+https://obscure-brook-11862.herokuapp.com
